@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(26, 26, 26);
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.card{
+    height: 500px;
+    width: 400px;
+}
+.header{
+    background-color: white;
+    height: 60px;
+    width: 400px;
+    margin-top: 50px; 
+    display: inline-flex;
+}
+.title{
+    padding-left: 10px;
+    font-size: small;
+    list-style: none;
+}
+.footer{
+    background-color: white;
+    height: 200px;
+    width: 400px;
+}
+i{
+    color: black;
+    font-size: 25px;
+    padding: 15px 0 0 15px;
+}
+#principal{
+    font-weight: bold;
+}
+#options{
+    padding-left: 260px;
+}
+label{
+    font-size: 13px;
+}
+.footerTitle{
+    padding: 15px 0 0 10px;
+}
+.footerText{
+    font-size: 13px;
+    padding: 0 15px 0 10px;
+    text-align: justify;
+}
+.black{
+    font-weight: bold;
+}
+#sep{
+    padding-left: 220px;
+}
